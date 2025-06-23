@@ -1,1 +1,2 @@
-# Do an chuoi ki mon co so
+# Memory Game
+Project cuoi ki mon co so lap trinh
